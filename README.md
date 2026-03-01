@@ -1,1 +1,7 @@
-# New folder (2)
+# My Project
+
+This is my awesome project!
+
+## Features
+- Feature 1
+- Feature 2
